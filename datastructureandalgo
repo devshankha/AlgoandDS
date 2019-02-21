@@ -10,6 +10,7 @@ Tree:
 3. Check if a binary tree is a BST
 4.print elements of a binary tree in level order
 5. Iterative preorder traversal
+6. Iterative inorder traversal
 
 Heap:
 1.Huffman algorithm and tree

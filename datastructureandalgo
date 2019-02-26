@@ -3,6 +3,8 @@ Linked list:
 1.Reverse a linkedlist
 2.Convert a linkedlist in zig zag fashion
 3.intersection point of two linked lists
+4. reverse a doubly linked list
+
 
 Tree:
 1. Print left view of a binary tree
@@ -32,6 +34,8 @@ work scheduling program
 Arrays:
 
 find pairs in an array that add to a sum
+
+the petrol problem
 
 
 

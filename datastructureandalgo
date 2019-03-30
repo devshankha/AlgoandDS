@@ -4,6 +4,7 @@ Linked list:
 2.Convert a linkedlist in zig zag fashion
 3.intersection point of two linked lists
 4. reverse a doubly linked list
+5. Delete a Node from linked list without head pointer
 
 
 Tree:

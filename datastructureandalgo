@@ -49,6 +49,15 @@ String problems:
 Find if characters in a string can form a palindrome
 Fing element in a sparse string
 Find the first non repeating character in the string
+Find all permutations of a string
+
+
+//Things to do as of now
+revise ---design a parking lot, a chess game, amazon online system
+string anagrams, revise Python//algorithm complexity, graph colouring problem
+permutations using backtracking, design a rate delimiter, stak and queue problems, 
+if binary tree is balanced
+
 
 
 

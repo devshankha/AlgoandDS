@@ -53,6 +53,7 @@ Find if characters in a string can form a palindrome
 Fing element in a sparse string
 Find the first non repeating character in the string
 Find all permutations of a string
+Check whether 2 strings are anagrams of each other
 
 
 //Things to do as of now

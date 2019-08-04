@@ -54,6 +54,7 @@ Fing element in a sparse string
 Find the first non repeating character in the string
 Find all permutations of a string
 Check whether 2 strings are anagrams of each other
+Find if all unique characters are there in string without additional structure , excellent use of bitwise operators
 
 
 //Things to do as of now

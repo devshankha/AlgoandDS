@@ -32,6 +32,7 @@ Dynamic programming:
 3. Find nth Catalan number
 4. Find nth ugly number
 5. Find number of BST with n distinct keys
+6.Count ways to reach the nth stair using step 1, 2 or 3
 
 Backtracking:
 1. Colouring a graph

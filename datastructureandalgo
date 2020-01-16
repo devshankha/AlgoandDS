@@ -29,6 +29,9 @@ Heap:
 Dynamic programming:
 1. longest common subsequence
 2. find numbers in an array that add to a sum
+3. Find nth Catalan number
+4. Find nth ugly number
+5. Find number of BST with n distinct keys
 
 Backtracking:
 1. Colouring a graph

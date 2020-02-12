@@ -20,6 +20,7 @@ Tree:
 6. Iterative inorder traversal
 7. traverse a tree in spiral form
 8. convert bst to dll.
+9. Find if 2 binary trees are isomorphic
 
 Heap:
 1.Huffman algorithm and tree
@@ -75,6 +76,19 @@ permutations using backtracking, design a rate delimiter, stak and queue problem
 if binary tree is balanced
 elastic search, kibana, Grafana,trie datastructure, duplicates in URL
 // sort +ve and -ve numbers in an array
+
+
+To remember:
+
+Remember this logic--
+
+// Both roots are NULL, trees isomorphic by definition 
+ if (n1 == null && n2 == null) 
+    return true; 
+   
+ // Exactly one of the n1 and n2 is NULL, trees not isomorphic 
+ if (n1 == null || n2 == null) 
+     return false; 
 
 
 

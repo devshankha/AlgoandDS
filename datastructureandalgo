@@ -93,6 +93,13 @@ Remember this logic--
  // Exactly one of the n1 and n2 is NULL, trees not isomorphic 
  if (n1 == null || n2 == null) 
      return false; 
+     
+//how to find rows and columns of a 2d matrix
+
+
+matrix.length; // total rows of a matrix
+matrix[0].length; //Total columns of Original Matrix
+	  
 
 
 

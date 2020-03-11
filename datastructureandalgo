@@ -24,7 +24,8 @@ Tree:
 
 Heap:
 1.Huffman algorithm and tree
-2. sort n number of sorted arrays
+2. sort n number of sorted 
+s
 3.
 
 Dynamic programming:
@@ -54,6 +55,7 @@ For a given array of repeated elements, exactly one element is not repeated. You
 
 sort an array of 0s,1s and 2s
 Rearrange positive and negative numbers with constant extra space
+Sort an almost sorted array which requires only one swap
 
 Design a hit counter:
 

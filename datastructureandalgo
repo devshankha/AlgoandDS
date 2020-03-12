@@ -52,7 +52,7 @@ count distinct elements in an array
 find missing number in contiguous array (using xor)
 For a given array of repeated elements, exactly one element is not repeated. You need to return the non-repeated element.
 [1, 2, 5, 4, 6, 8, 9, 2, 1, 4, 5, 8, 9]
-
+sort an array of 0s and ,1s
 sort an array of 0s,1s and 2s
 Rearrange positive and negative numbers with constant extra space
 Sort an almost sorted array which requires only one swap

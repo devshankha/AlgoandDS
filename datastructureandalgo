@@ -35,6 +35,7 @@ Dynamic programming:
 4. Find nth ugly number
 5. Find number of BST with n distinct keys
 6.Count ways to reach the nth stair using step 1, 2 or 3
+7Coin change problem
 
 Backtracking:
 1. Colouring a graph

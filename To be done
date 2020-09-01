@@ -1,5 +1,9 @@
 https://www.geeksforgeeks.org/amazon-sde-1-fte-6-months-internship-experience-amazewow-2021/
 
+Implement a treiber stack
+
+https://gist.github.com/sarxos/228ee848f26fcbb9bb44e475a8f03d47
+
 First Round: It was a coding round. Three coding questions were asked.
 1.	Find the number of page faults given cache size ‘n’ and the page replacement algorithm is LRU.
 

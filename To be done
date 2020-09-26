@@ -23,3 +23,11 @@ Minimum salary hike for each employee such that no employee feels unfair
 https://massivealgorithms.blogspot.com/2015/09/bitmasking-and-dynamic-programming-set.html
 
 https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/?ref=lbp
+
+
+Matrix ---
+
+
+search in a rowwise or column wise sorted matrix
+Maximum size square sub-matrix with all 1s
+Maximum size rectangle binary sub-matrix with all 1s

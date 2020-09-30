@@ -68,6 +68,7 @@ Dynamic programming:
 5. Find number of BST with n distinct keys
 6.Count ways to reach the nth stair using step 1, 2 or 3
 7Coin change problem
+8. maximum size square sub-matrix with all 1s
 
 Backtracking:
 1. Colouring a graph

@@ -31,3 +31,6 @@ Matrix ---
 search in a rowwise or column wise sorted matrix
 Maximum size square sub-matrix with all 1s
 Maximum size rectangle binary sub-matrix with all 1s
+
+
+Moores voting algorithm

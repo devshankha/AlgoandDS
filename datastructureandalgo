@@ -103,6 +103,8 @@ sort an array of 0s and ,1s
 sort an array of 0s,1s and 2s
 Rearrange positive and negative numbers with constant extra space
 Sort an almost sorted array which requires only one swap
+find the majority element in an array === https://www.youtube.com/watch?v=3Ng7KIiLlFE (using BTS)
+also to do == find leader in an array, find equilibrium point in an array
 
 Design a hit counter:
 

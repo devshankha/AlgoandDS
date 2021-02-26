@@ -83,6 +83,7 @@ Dynamic programming:
 7Coin change problem
 8. maximum size square sub-matrix with all 1s
 9.minimum path sum in a matrix
+10. Unique paths in a matrix
 
 Backtracking:
 1. Colouring a graph

@@ -144,6 +144,7 @@ sliding window technique-- find maxim sum subarray of size k
 Bag of tokens problem===https://www.youtube.com/watch?v=1GubKefOabc&list=RDCMUCKvwPt6BifPP54yzH99ff1g&start_radio=1&t=577s
 
 
+Basic coding things to remember-----
 To remember:
 
 Remember this logic--
@@ -161,6 +162,32 @@ Remember this logic--
 
 matrix.length; // total rows of a matrix
 matrix[0].length; //Total columns of Original Matrix
+
+--------------------
+remember this method==getOrDefault in a HashMap
+
+Map<String,String> m = new HashMap<String,String>();
+		m.put("a", "a");
+		m.put("b", "b");
+		m.put("c", "c");
+		System.out.println(m.getOrDefault("a", "david"));
+		
+		-----------------------------
+		
+Arrays.sort() always sorts in place
+-----------------------------------------------------------------
+
+Not direct to convert int[] to List<Integer> using Arrays.asList, as  Arrays.asList does not deal with boxing and will just create a List<int[]> which is not what you want. 
+You have to make a utility method.
+
+int[] ints = {1, 2, 3};
+List<Integer> intList = new ArrayList<Integer>(ints.length);
+for (int i : ints)
+{
+    intList.add(i);
+}
+
+
 	  
 
 

@@ -74,6 +74,7 @@ Tree:
 9. Find if 2 binary trees are isomorphic
 10 Binary Tree Longest Consecutive Sequence - LeetCode 209
 nice solution of this problem given here == https://www.youtube.com/watch?v=oSYGjIq6ZM4
+Two nodes of a BST are swapped, correct the BST
 
 Heap:
 1.Huffman algorithm and tree

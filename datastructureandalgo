@@ -136,6 +136,10 @@ Find all permutations of a string
 Check whether 2 strings are anagrams of each other
 Find if all unique characters are there in string without additional structure , excellent use of bitwise operators
 
+Miscellaneous problem:
+
+Verify words in an alien dictionary
+
 
 //Things to do as of now
 revise ---design a parking lot, a chess game, amazon online system

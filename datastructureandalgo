@@ -51,6 +51,11 @@ loadbalancer and tls load balancer, passthrough loadbalancer, what is SNI in loa
 Strings ===
 
 Find first non repeated character in a string
+find if two strings are anagrams
+group all anagrams in a string
+check if string is a palindrome
+find all permutations of a string
+
 
 
 Linked list:

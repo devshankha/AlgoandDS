@@ -14,13 +14,37 @@ Database normalization ===
 https://www.tutorialspoint.com/Second-Normal-Form-2NF
 https://www.geeksforgeeks.org/second-normal-form-2nf/
 
-
-Another very good website is this == https://massivealgorithms.blogspot.com/2018/11/leetcode-948-bag-of-tokens.html
-Important websites == https://www.techiedelight.com/minimum-number-of-platforms-needed-avoid-delay-arrival-train/
-important exercises I need to practice = count n say sequence, minimum platforms,, maximum rectangular area in histogram, best time to buy n sell stock
 Important -- https://algorithmsandme.com/top-google-interview-questions/
 https://www.interviewbit.com/problems/count-and-say/
 this website is good, but mostly in chineese == https://massivetechinterview.blogspot.com/2015/09/java-concurrency.html
+
+Another very good website is this == https://massivealgorithms.blogspot.com/2018/11/leetcode-948-bag-of-tokens.html
+Important websites == https://www.techiedelight.com/minimum-number-of-platforms-needed-avoid-delay-arrival-train/
+
+Good to Read -
+
+https://www.confluent.io/product/confluent-platform/
+https://docs.confluent.io/current/
+http://highscalability.com/all-time-favorites/
+http://www.aosabook.org/en/distsys.html
+http://dancres.github.io/Pages/
+http://bigocheatsheet.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================
+important exercises I need to practice = count n say sequence, minimum platforms,, maximum rectangular area in histogram, best time to buy n sell stock
+
 Find all anagrams in a list of strings
 water jug problem, different variations
 Egg drop  problem

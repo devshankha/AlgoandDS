@@ -261,6 +261,26 @@ Map<String,String> m = new HashMap<String,String>();
 		System.out.println(m.getOrDefault("a", "david"));
 		
 		-----------------------------
+for (int i=0; i < nums.length;i++) {
+			if ((map.containsKey(nums[i]))) {
+				map.put(nums[i], map.get(nums[i]+1));
+				
+			} else {
+				map.put(nums[i], 1);
+			}
+		}
+		
+		//the above can be replaced with ==
+		
+		for (int i=0; i < nums.length;i++) {
+			map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+		}
+		
+		
+		
+		
+		
+		
 		
 Arrays.sort() always sorts in place
 -----------------------------------------------------------------

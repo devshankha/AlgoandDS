@@ -315,7 +315,48 @@ for (int i : ints)
 
 
 	  
+///Various things can be modified using lambdas and expressions -- for example --
 
+ String name = null;
+        String value = "Anand";
+        List<String> names = new ArrayList<String>();
+        names.add("Anand");
+        for (String s: names) {
+            if (s.equals(value)) {
+                name = value;
+            }
+        }
+	
+	can be replaced with the following ==
+	
+	String name = null;
+String value = "Anand";
+List<String> names = new ArrayList<String>();
+names.add("Anand");
+name = names.stream().filter(s -> s.equals(value)).collect(Collectors.joining());
+System.out.println(name);
+
+===== also we can do this ======
+
+name = names.stream().filter(e -> e.equals(value)).findAny().orElse(null);
+
+===== or even this works =====
+
+AtomicReference<String> name = new AtomicReference<>();
+String value = "Anand";
+List<String> names = new ArrayList<>();
+names.add("Anand");
+names.stream().filter(s -> s.equals(value)).findFirst().ifPresent(name::set);
+System.out.println(name.get());
+
+
+===============================
+
+also using Hashmap computeIfAbsent is also very handy  
+
+
+gsmADs.computeIfAbsent(region, ad -> new ArrayList<>())
+                    .add(entity.getAvailabilityDomain());
 
 
 

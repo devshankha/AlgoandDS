@@ -1,3 +1,11 @@
+𝗠𝗼𝘀𝘁 𝘁𝗲𝘀𝘁𝗲𝗱 𝗿𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝘁𝗼𝗽𝗶𝗰𝘀
+- Graceful degradation
+- Bulkhead isolation pattern
+- Dead letter queues
+
+
+
+
 SQL link == https://artoftesting.com/sql-queries-for-interview
 
 this is good one for system design 

@@ -12,6 +12,8 @@ Correctness, Coordination and Scarcity in Concurrent Systems
 
 read quorum, write quorum and consensus algorithm
 
+gossip protocol, merckel trees
+
 
 
 

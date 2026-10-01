@@ -2,6 +2,7 @@
 - Graceful degradation
 - Bulkhead isolation pattern
 - Dead letter queues
+-- dual write operation
 
 
 

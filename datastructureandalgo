@@ -14,6 +14,8 @@ read quorum, write quorum and consensus algorithm
 
 gossip protocol, merckel trees
 
+Vector clocks == https://www.youtube.com/watch?v=b2Tud5Kkue8
+
 
 
 
